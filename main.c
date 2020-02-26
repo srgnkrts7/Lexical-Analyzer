@@ -217,6 +217,3 @@ void anahtarKelime(char *p,FILE * x)
     }
     i=-1;
 }
-
-                                                                                        //MERT GÜLBAHÇE 05150000684
-                                                                                        //SERGEN KARATAÞ 05150000637
