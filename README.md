@@ -27,6 +27,7 @@ Lexical rules for the programming language Psi++ are as follows:
 •	String constants have unlimited size
 •	String constants cannot contain the double quote character. when you reach one, the string terminates.
 •	If a string constant cannot terminate before the file end, there should be a lexical error issued.
+
 6- Keywords:
 •	Keywords are: break,case,char,const,continue,do,else,enum,float,for,goto,if,int,
 long,record,return,static,while
