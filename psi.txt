@@ -1,0 +1,12 @@
+sayi = 158 + 9857575;
++*/;
+void func(x){
+x = 3;
+y = 5;
+z = 6;
+}
+main(){
+char kelime;
+[]
+(()))
+}

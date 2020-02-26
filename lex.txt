@@ -1,0 +1,44 @@
+Identifier--> sayi
+Operator----> =
+IntCons-----> 158
+Operator----> +
+IntCons-----> 9857575
+EndOfLine
+Operator----> +
+Operator----> *
+Operator----> /
+EndOfLine
+Identifier--> void
+Identifier--> func
+LeftParanthesis
+Identifier--> x
+RightParanthesis
+LeftCurlyBracket
+Identifier--> x
+Operator----> =
+IntCons-----> 3
+EndOfLine
+Identifier--> y
+Operator----> =
+IntCons-----> 5
+EndOfLine
+Identifier--> z
+Operator----> =
+IntCons-----> 6
+EndOfLine
+RightCurlyBracket
+Identifier--> main
+LeftParanthesis
+RightParanthesis
+LeftCurlyBracket
+Keyword-----> char
+Identifier--> kelime
+EndOfLine
+LeftSquareBracket
+RightSquareBracket
+LeftParanthesis
+LeftParanthesis
+RightParanthesis
+RightParanthesis
+RightParanthesis
+RightCurlyBracket
